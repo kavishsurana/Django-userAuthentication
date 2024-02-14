@@ -1,0 +1,2 @@
+First I have created a Django-admin startproject registration, then I have cd to that folder and initialize one app1. Under setting of registration I have included the templates folder which contains all the HTML code of aur website. Then I have set the urls and then created different endpoints under views of app1. At last I run the server using python manage.py runserver
+Also I checked in admin database as I have created a superuser, so I checked in http://localhost:8000/auth by that username and password that is user is actually created or not.
